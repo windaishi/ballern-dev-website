@@ -1,0 +1,17 @@
+{
+    "name": "manuelkress/ballern-dev-website",
+    "license": "proprietary",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manuel Kress",
+            "email": "6232639+windaishi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "php": ">= 7.4"
+    },
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "v99"
+    }
+}
